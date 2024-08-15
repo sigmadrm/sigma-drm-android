@@ -6,5 +6,13 @@
     <string name="error_no_decoder">This device does not provide a decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
     <string name="error_instantiating_decoder">Unable to instantiate decoder <xliff:g id="decoder_name">%1$s</xliff:g></string>
     <string name="storage_permission_denied">Permission to access storage was denied</string>
+    <string name="manifest_url">Manifest URL</string>
+    <string name="merchant_id">Merchant ID</string>
+    <string name="app_id">App ID</string>
+    <string name="user_id">User ID</string>
+    <string name="session_id">Session ID</string>
+    <string name="play">Play</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
 
 </resources>

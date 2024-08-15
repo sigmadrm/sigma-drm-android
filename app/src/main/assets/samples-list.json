@@ -1,0 +1,18 @@
+[
+  {
+    "name": "VTV1",
+    "manifestUrl": "https://live-on-v1-akm.akamaized.net/manifest/vtv1-premium/master.m3u8?manifestfilter=video_height%3A1-720",
+    "merchantId": "thudojsc",
+    "appId": "VTVcabON",
+    "userId": "G-7PKYT6WCXQ",
+    "sessionId": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZGkiOiJ7XCJ1c2VyXCI6XCJHLTdQS1lUNldDWFFcIixcIm1lcmNoYW50XCI6XCJ0aHVkb2pzY1wiLFwiYXNzZXRcIjpcInZ0djEtcHJlbWl1bVwifSIsInVpZCI6IkctN1BLWVQ2V0NYUSIsImRybUlkIjoidnR2MS1wcmVtaXVtIiwiaWF0IjoxNzIzNDU3MzgzLCJleHAiOjE3MjM1NDM3ODh9.GzTEP82a-cTJpq9Y1jHpP9R6sSwQe190b5EPMgtg5GI"
+  },
+  {
+    "name": "ON Football",
+    "manifestUrl": "https://live-on-v1-akm.akamaized.net/manifest/on-football/master.m3u8?drmv2=1&manifestfilter=video_bitrate%3A1-4000000",
+    "merchantId": "thudojsc",
+    "appId": "VTVcabON",
+    "userId": "20030176",
+    "sessionId": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZGkiOiJ7XCJ1c2VyXCI6XCIyMDAzMDE3NlwiLFwibWVyY2hhbnRcIjpcInRodWRvanNjXCIsXCJhc3NldFwiOlwib24tZm9vdGJhbGxcIn0iLCJ1aWQiOiIyMDAzMDE3NiIsImRybUlkIjoib24tZm9vdGJhbGwiLCJpYXQiOjE3MjM0NTc0NjQsImV4cCI6MTcyMzU0Mzg2OX0.3c2EsGA0L8wgKH5PGIQo08LO-rhPhZB8n2IVLwFDMLc"
+  }
+]
